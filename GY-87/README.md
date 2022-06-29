@@ -3,7 +3,7 @@
 Para utilizar o código devemos:
 
 1. Fazer as conexões de acordo com a imagem:
-  ![Conexão](/Conexao GY-87 com Arduino.png)
+  ![](../Conexao.png)
 
 2. Fazer o download e instalar as bibliotecas:
     - MPU6050 Sensor Library
