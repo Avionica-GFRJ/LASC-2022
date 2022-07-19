@@ -1,0 +1,1 @@
+Link fonte: https://www.arduinoecia.com.br/sensor-gy-80-arduino-acelerometro-bussola-barometro/amp/
